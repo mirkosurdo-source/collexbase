@@ -1,0 +1,138 @@
+{
+  "lang": {
+    "label": "语言",
+    "it": "意大利语",
+    "en": "英语",
+    "es": "西班牙语",
+    "fr": "法语",
+    "de": "德语",
+    "ru": "俄语",
+    "zh": "中文"
+  },
+  "theme": {
+    "label": "主题",
+    "toLight": "切换到浅色主题",
+    "toDark": "切换到深色主题",
+    "light": "浅色",
+    "dark": "深色"
+  },
+  "nav": {
+    "home": "首页",
+    "market": "市场",
+    "offers": "报价",
+    "wishlist": "愿望单",
+    "following": "关注",
+    "trades": "交换",
+    "auctions": "拍卖",
+    "scanner": "3D 扫描仪",
+    "collection": "收藏",
+    "advisor": "顾问",
+    "analytics": "分析",
+    "community": "社区",
+    "groups": "群组",
+    "showcase": "展柜",
+    "blog": "博客",
+    "messages": "消息",
+    "chat": "聊天",
+    "wallet": "钱包",
+    "store": "金币商店",
+    "payments": "支付",
+    "subscription": "订阅",
+    "profile": "个人资料",
+    "admin": "管理",
+    "download": "下载应用",
+    "developer": "开发者",
+    "referral": "邀请",
+    "creator": "创作者",
+    "creatorApply": "成为创作者"
+  },
+  "common": {
+    "loading": "加载中...",
+    "save": "保存",
+    "cancel": "取消",
+    "delete": "删除",
+    "confirm": "确认",
+    "close": "关闭",
+    "search": "搜索",
+    "all": "全部"
+  },
+  "advisor": {
+    "title": "CollexSpark 顾问",
+    "subtitle": "为您的收藏提供智能建议",
+    "opportunities": "机会",
+    "trends": "价值趋势",
+    "noData": "暂无建议。"
+  },
+  "wishlist": {
+    "title": "愿望单",
+    "add": "添加愿望",
+    "empty": "您的愿望单是空的。",
+    "opportunities": "来自愿望单的机会",
+    "manage": "管理愿望单"
+  },
+  "marketplace": {
+    "title": "市场",
+    "price": "价格",
+    "buy": "购买",
+    "makeOffer": "出价",
+    "fairPrice": "公平价格",
+    "underpriced": "低于市场价"
+  },
+  "community": {
+    "title": "社区",
+    "newPost": "新帖子",
+    "follow": "关注",
+    "following": "已关注",
+    "recommended": "推荐用户",
+    "popular": "热门帖子",
+    "recentBlog": "最新文章"
+  },
+  "store": {
+    "title": "CollexCoins 商店",
+    "buy": "购买",
+    "save": "为您节省",
+    "bestValue": "最超值",
+    "coinValue": "官方价值：1 CollexCoin = 0.05 €"
+  },
+  "notifications": {
+    "title": "通知",
+    "empty": "没有通知。",
+    "markAllRead": "全部标为已读"
+  },
+  "auth": {
+    "login": "登录",
+    "register": "注册",
+    "email": "邮箱",
+    "password": "密码",
+    "username": "用户名",
+    "logout": "退出登录"
+  },
+  "spark": {
+    "greeting": "你好！我是 CollexSpark，你的收藏助手。",
+    "advisorIntro": "这是我为您的收藏找到的内容。",
+    "wishlistIntro": "我为您的愿望找到了一些机会！",
+    "noOpportunities": "目前没有机会。继续探索吧！"
+  },
+  "download": {
+    "title": "下载 CollexBase",
+    "subtitle": "随身携带你的收藏。智能扫描、市场、拍卖和顾问——尽在掌中。",
+    "androidTitle": "下载 Android 版",
+    "download": "下载 APK",
+    "version": "版本",
+    "changelog": "更新内容",
+    "install": "如何在 Android 上安装",
+    "step1": "点击下载 APK 获取文件。",
+    "step2": "从通知或下载文件夹打开下载的文件。",
+    "step3": "如有提示，请允许从未知来源安装。",
+    "step4": "点击安装并打开 CollexBase。",
+    "qr": "扫描二维码下载",
+    "iosTitle": "即将登陆 iOS",
+    "iosBanner": "即将在 App Store 上线",
+    "iosText": "我们正在完成 App Store 的发布。即将推出。",
+    "features": "你能做什么",
+    "f1": "单张和多张智能扫描",
+    "f2": "无需上传即可即时 AI 估值",
+    "f3": "移动端市场、拍卖和交易",
+    "f4": "实时推送通知"
+  }
+}

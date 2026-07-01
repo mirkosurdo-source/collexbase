@@ -1,0 +1,138 @@
+{
+  "lang": {
+    "label": "Sprache",
+    "it": "Italienisch",
+    "en": "Englisch",
+    "es": "Spanisch",
+    "fr": "Französisch",
+    "de": "Deutsch",
+    "ru": "Russisch",
+    "zh": "Chinesisch"
+  },
+  "theme": {
+    "label": "Thema",
+    "toLight": "Zum hellen Thema wechseln",
+    "toDark": "Zum dunklen Thema wechseln",
+    "light": "Hell",
+    "dark": "Dunkel"
+  },
+  "nav": {
+    "home": "Start",
+    "market": "Markt",
+    "offers": "Angebote",
+    "wishlist": "Wunschliste",
+    "following": "Folge ich",
+    "trades": "Tausch",
+    "auctions": "Auktionen",
+    "scanner": "3D-Scanner",
+    "collection": "Sammlung",
+    "advisor": "Berater",
+    "analytics": "Analytik",
+    "community": "Community",
+    "groups": "Gruppen",
+    "showcase": "Vitrinen",
+    "blog": "Blog",
+    "messages": "Nachrichten",
+    "chat": "Chat",
+    "wallet": "Wallet",
+    "store": "Coins-Shop",
+    "payments": "Zahlungen",
+    "subscription": "Abonnement",
+    "profile": "Profil",
+    "admin": "Admin",
+    "download": "App holen",
+    "developer": "Developer",
+    "referral": "Einladen",
+    "creator": "Creator",
+    "creatorApply": "Creator werden"
+  },
+  "common": {
+    "loading": "Wird geladen...",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "delete": "Löschen",
+    "confirm": "Bestätigen",
+    "close": "Schließen",
+    "search": "Suchen",
+    "all": "Alle"
+  },
+  "advisor": {
+    "title": "CollexSpark Berater",
+    "subtitle": "Intelligente Tipps für deine Sammlung",
+    "opportunities": "Chancen",
+    "trends": "Werttrends",
+    "noData": "Derzeit keine Tipps."
+  },
+  "wishlist": {
+    "title": "Wunschliste",
+    "add": "Wunsch hinzufügen",
+    "empty": "Deine Wunschliste ist leer.",
+    "opportunities": "Chancen aus deiner Wunschliste",
+    "manage": "Wunschliste verwalten"
+  },
+  "marketplace": {
+    "title": "Markt",
+    "price": "Preis",
+    "buy": "Kaufen",
+    "makeOffer": "Angebot machen",
+    "fairPrice": "Fairer Preis",
+    "underpriced": "Unterbewertet"
+  },
+  "community": {
+    "title": "Community",
+    "newPost": "Neuer Beitrag",
+    "follow": "Folgen",
+    "following": "Folge ich",
+    "recommended": "Empfohlene Nutzer",
+    "popular": "Beliebte Beiträge",
+    "recentBlog": "Neueste Artikel"
+  },
+  "store": {
+    "title": "CollexCoins-Shop",
+    "buy": "Kaufen",
+    "save": "Du sparst",
+    "bestValue": "Bestes Angebot",
+    "coinValue": "Offizieller Wert: 1 CollexCoin = 0,05 €"
+  },
+  "notifications": {
+    "title": "Benachrichtigungen",
+    "empty": "Keine Benachrichtigungen.",
+    "markAllRead": "Alle als gelesen markieren"
+  },
+  "auth": {
+    "login": "Anmelden",
+    "register": "Registrieren",
+    "email": "E-Mail",
+    "password": "Passwort",
+    "username": "Benutzername",
+    "logout": "Abmelden"
+  },
+  "spark": {
+    "greeting": "Hallo! Ich bin CollexSpark, dein Sammler-Assistent.",
+    "advisorIntro": "Das habe ich für deine Sammlung gefunden.",
+    "wishlistIntro": "Ich habe Chancen für deine Wünsche gefunden!",
+    "noOpportunities": "Derzeit keine Chancen. Erkunde weiter!"
+  },
+  "download": {
+    "title": "CollexBase herunterladen",
+    "subtitle": "Nimm deine Sammlung überallhin mit. Intelligenter Scanner, Marktplatz, Auktionen und Berater — in deiner Hand.",
+    "androidTitle": "Für Android herunterladen",
+    "download": "APK herunterladen",
+    "version": "Version",
+    "changelog": "Neuigkeiten",
+    "install": "So installierst du auf Android",
+    "step1": "Tippe auf APK herunterladen, um die Datei zu erhalten.",
+    "step2": "Öffne die heruntergeladene Datei aus den Benachrichtigungen oder dem Download-Ordner.",
+    "step3": "Erlaube bei Aufforderung die Installation aus unbekannten Quellen.",
+    "step4": "Tippe auf Installieren und öffne CollexBase.",
+    "qr": "Scanne den QR-Code zum Herunterladen",
+    "iosTitle": "Bald auch auf iOS",
+    "iosBanner": "Bald im App Store",
+    "iosText": "Wir schließen die Veröffentlichung im App Store ab. Bald verfügbar.",
+    "features": "Was du tun kannst",
+    "f1": "Intelligenter Einzel- und Mehrkarten-Scanner",
+    "f2": "Sofortige KI-Bewertungen ohne Hochladen",
+    "f3": "Mobiler Marktplatz, Auktionen und Tauschgeschäfte",
+    "f4": "Echtzeit-Push-Benachrichtigungen"
+  }
+}

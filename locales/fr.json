@@ -1,0 +1,138 @@
+{
+  "lang": {
+    "label": "Langue",
+    "it": "Italien",
+    "en": "Anglais",
+    "es": "Espagnol",
+    "fr": "Français",
+    "de": "Allemand",
+    "ru": "Russe",
+    "zh": "Chinois"
+  },
+  "theme": {
+    "label": "Thème",
+    "toLight": "Passer au thème clair",
+    "toDark": "Passer au thème sombre",
+    "light": "Clair",
+    "dark": "Sombre"
+  },
+  "nav": {
+    "home": "Accueil",
+    "market": "Marché",
+    "offers": "Offres",
+    "wishlist": "Souhaits",
+    "following": "Abonnements",
+    "trades": "Échanges",
+    "auctions": "Enchères",
+    "scanner": "Scanner 3D",
+    "collection": "Collection",
+    "advisor": "Conseiller",
+    "analytics": "Analytique",
+    "community": "Communauté",
+    "groups": "Groupes",
+    "showcase": "Vitrines",
+    "blog": "Blog",
+    "messages": "Messages",
+    "chat": "Chat",
+    "wallet": "Portefeuille",
+    "store": "Boutique Coins",
+    "payments": "Paiements",
+    "subscription": "Abonnement",
+    "profile": "Profil",
+    "admin": "Admin",
+    "download": "Obtenir l'app",
+    "developer": "Developer",
+    "referral": "Inviter",
+    "creator": "Creator",
+    "creatorApply": "Devenir Creator"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "confirm": "Confirmer",
+    "close": "Fermer",
+    "search": "Rechercher",
+    "all": "Toutes"
+  },
+  "advisor": {
+    "title": "CollexSpark Conseiller",
+    "subtitle": "Des conseils intelligents pour votre collection",
+    "opportunities": "Opportunités",
+    "trends": "Tendances de valeur",
+    "noData": "Aucun conseil pour le moment."
+  },
+  "wishlist": {
+    "title": "Liste de souhaits",
+    "add": "Ajouter un souhait",
+    "empty": "Votre liste de souhaits est vide.",
+    "opportunities": "Opportunités de votre liste de souhaits",
+    "manage": "Gérer la liste"
+  },
+  "marketplace": {
+    "title": "Marché",
+    "price": "Prix",
+    "buy": "Acheter",
+    "makeOffer": "Faire une offre",
+    "fairPrice": "Prix juste",
+    "underpriced": "Sous-évalué"
+  },
+  "community": {
+    "title": "Communauté",
+    "newPost": "Nouveau post",
+    "follow": "Suivre",
+    "following": "Suivi",
+    "recommended": "Utilisateurs recommandés",
+    "popular": "Posts populaires",
+    "recentBlog": "Articles récents"
+  },
+  "store": {
+    "title": "Boutique CollexCoins",
+    "buy": "Acheter",
+    "save": "Vous économisez",
+    "bestValue": "Meilleure valeur",
+    "coinValue": "Valeur officielle : 1 CollexCoin = 0,05 €"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "empty": "Aucune notification.",
+    "markAllRead": "Tout marquer comme lu"
+  },
+  "auth": {
+    "login": "Se connecter",
+    "register": "S'inscrire",
+    "email": "E-mail",
+    "password": "Mot de passe",
+    "username": "Nom d'utilisateur",
+    "logout": "Se déconnecter"
+  },
+  "spark": {
+    "greeting": "Bonjour ! Je suis CollexSpark, votre assistant de collectionneur.",
+    "advisorIntro": "Voici ce que j'ai trouvé pour votre collection.",
+    "wishlistIntro": "J'ai trouvé des opportunités pour vos souhaits !",
+    "noOpportunities": "Aucune opportunité pour le moment. Continuez à explorer !"
+  },
+  "download": {
+    "title": "Télécharger CollexBase",
+    "subtitle": "Emportez votre collection partout. Scanner intelligent, marketplace, enchères et conseiller — au creux de votre main.",
+    "androidTitle": "Télécharger pour Android",
+    "download": "Télécharger l'APK",
+    "version": "Version",
+    "changelog": "Nouveautés",
+    "install": "Comment installer sur Android",
+    "step1": "Touchez Télécharger l'APK pour obtenir le fichier.",
+    "step2": "Ouvrez le fichier téléchargé depuis les notifications ou le dossier Téléchargements.",
+    "step3": "Si demandé, autorisez l'installation depuis des sources inconnues.",
+    "step4": "Touchez Installer et ouvrez CollexBase.",
+    "qr": "Scannez le QR pour télécharger",
+    "iosTitle": "Bientôt sur iOS",
+    "iosBanner": "Bientôt sur l'App Store",
+    "iosText": "Nous finalisons la publication sur l'App Store. Disponible bientôt.",
+    "features": "Ce que vous pouvez faire",
+    "f1": "Scanner intelligent simple et multiple",
+    "f2": "Estimations IA instantanées sans rien téléverser",
+    "f3": "Marketplace, enchères et échanges mobiles",
+    "f4": "Notifications push en temps réel"
+  }
+}

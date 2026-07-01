@@ -1,0 +1,60 @@
+{
+  "expo": {
+    "name": "CollexBase",
+    "slug": "collexbase",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "scheme": "collexbase",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0b3d2e"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "app.collexbase.mobile",
+      "infoPlist": {
+        "NSCameraUsageDescription": "CollexBase usa la fotocamera per scansionare le tue carte da collezione.",
+        "NSPhotoLibraryUsageDescription": "CollexBase accede alle foto per analizzare le carte dalla tua galleria."
+      }
+    },
+    "android": {
+      "package": "app.collexbase.mobile",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0b3d2e"
+      },
+      "permissions": ["CAMERA", "READ_EXTERNAL_STORAGE"]
+    },
+    "plugins": [
+      "expo-router",
+      "expo-secure-store",
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "CollexBase usa la fotocamera per scansionare le tue carte da collezione."
+        }
+      ],
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "CollexBase accede alle foto per analizzare le carte dalla tua galleria."
+        }
+      ],
+      "expo-notifications"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "apiBaseUrl": "https://collexbase.app",
+      "eas": {
+        "projectId": "00000000-0000-0000-0000-000000000000"
+      }
+    }
+  }
+}

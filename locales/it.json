@@ -1,0 +1,138 @@
+{
+  "lang": {
+    "label": "Lingua",
+    "it": "Italiano",
+    "en": "Inglese",
+    "es": "Spagnolo",
+    "fr": "Francese",
+    "de": "Tedesco",
+    "ru": "Russo",
+    "zh": "Cinese"
+  },
+  "theme": {
+    "label": "Tema",
+    "toLight": "Passa al tema chiaro",
+    "toDark": "Passa al tema scuro",
+    "light": "Chiaro",
+    "dark": "Scuro"
+  },
+  "nav": {
+    "home": "Home",
+    "market": "Mercato",
+    "offers": "Offerte",
+    "wishlist": "Desideri",
+    "following": "Seguiti",
+    "trades": "Scambi",
+    "auctions": "Aste",
+    "scanner": "Scanner 3D",
+    "collection": "Collezione",
+    "advisor": "Advisor",
+    "analytics": "Analytics",
+    "community": "Community",
+    "groups": "Gruppi",
+    "showcase": "Vetrine",
+    "blog": "Blog",
+    "messages": "Messaggi",
+    "chat": "Chat",
+    "wallet": "Wallet",
+    "store": "Store Coins",
+    "payments": "Pagamenti",
+    "subscription": "Abbonamento",
+    "profile": "Profilo",
+    "admin": "Admin",
+    "download": "Scarica App",
+    "developer": "Developer",
+    "referral": "Invita",
+    "creator": "Creator",
+    "creatorApply": "Diventa Creator"
+  },
+  "common": {
+    "loading": "Caricamento...",
+    "save": "Salva",
+    "cancel": "Annulla",
+    "delete": "Elimina",
+    "confirm": "Conferma",
+    "close": "Chiudi",
+    "search": "Cerca",
+    "all": "Tutte"
+  },
+  "advisor": {
+    "title": "CollexSpark Advisor",
+    "subtitle": "Consigli intelligenti per la tua collezione",
+    "opportunities": "Opportunità",
+    "trends": "Trend di valore",
+    "noData": "Nessun consiglio al momento."
+  },
+  "wishlist": {
+    "title": "Lista dei desideri",
+    "add": "Aggiungi desiderio",
+    "empty": "La tua wishlist è vuota.",
+    "opportunities": "Opportunità dalla tua wishlist",
+    "manage": "Gestisci wishlist"
+  },
+  "marketplace": {
+    "title": "Mercato",
+    "price": "Prezzo",
+    "buy": "Acquista",
+    "makeOffer": "Fai un'offerta",
+    "fairPrice": "Prezzo equo",
+    "underpriced": "Sottoprezzo"
+  },
+  "community": {
+    "title": "Community",
+    "newPost": "Nuovo post",
+    "follow": "Segui",
+    "following": "Seguito",
+    "recommended": "Utenti consigliati",
+    "popular": "Post popolari",
+    "recentBlog": "Articoli recenti"
+  },
+  "store": {
+    "title": "Store CollexCoins",
+    "buy": "Acquista",
+    "save": "Risparmi",
+    "bestValue": "Miglior valore",
+    "coinValue": "Valore ufficiale: 1 CollexCoin = 0,05 €"
+  },
+  "notifications": {
+    "title": "Notifiche",
+    "empty": "Nessuna notifica.",
+    "markAllRead": "Segna tutte come lette"
+  },
+  "auth": {
+    "login": "Accedi",
+    "register": "Registrati",
+    "email": "Email",
+    "password": "Password",
+    "username": "Nome utente",
+    "logout": "Esci"
+  },
+  "spark": {
+    "greeting": "Ciao! Sono CollexSpark, il tuo assistente per collezionisti.",
+    "advisorIntro": "Ecco cosa ho trovato per la tua collezione.",
+    "wishlistIntro": "Ho trovato delle opportunità per i tuoi desideri!",
+    "noOpportunities": "Nessuna opportunità ora. Continua a esplorare!"
+  },
+  "download": {
+    "title": "Scarica CollexBase",
+    "subtitle": "Porta la tua collezione ovunque. Scanner intelligente, marketplace, aste e advisor — nel palmo della tua mano.",
+    "androidTitle": "Scarica per Android",
+    "download": "Scarica APK",
+    "version": "Versione",
+    "changelog": "Novità",
+    "install": "Come installare su Android",
+    "step1": "Tocca Scarica APK per scaricare il file.",
+    "step2": "Apri il file scaricato dalle notifiche o dalla cartella Download.",
+    "step3": "Se richiesto, consenti l'installazione da origini sconosciute.",
+    "step4": "Tocca Installa e apri CollexBase.",
+    "qr": "Inquadra il QR per scaricare",
+    "iosTitle": "Presto anche su iOS",
+    "iosBanner": "In arrivo su App Store",
+    "iosText": "Stiamo completando la pubblicazione su App Store. Disponibile a breve.",
+    "features": "Cosa puoi fare",
+    "f1": "Scanner intelligente singolo e multiplo",
+    "f2": "Valutazioni AI istantanee senza caricare nulla",
+    "f3": "Marketplace, aste e scambi mobile",
+    "f4": "Notifiche push in tempo reale"
+  }
+}

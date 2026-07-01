@@ -1,0 +1,138 @@
+{
+  "lang": {
+    "label": "Language",
+    "it": "Italian",
+    "en": "English",
+    "es": "Spanish",
+    "fr": "French",
+    "de": "German",
+    "ru": "Russian",
+    "zh": "Chinese"
+  },
+  "theme": {
+    "label": "Theme",
+    "toLight": "Switch to light theme",
+    "toDark": "Switch to dark theme",
+    "light": "Light",
+    "dark": "Dark"
+  },
+  "nav": {
+    "home": "Home",
+    "market": "Market",
+    "offers": "Offers",
+    "wishlist": "Wishlist",
+    "following": "Following",
+    "trades": "Trades",
+    "auctions": "Auctions",
+    "scanner": "3D Scanner",
+    "collection": "Collection",
+    "advisor": "Advisor",
+    "analytics": "Analytics",
+    "community": "Community",
+    "groups": "Groups",
+    "showcase": "Showcases",
+    "blog": "Blog",
+    "messages": "Messages",
+    "chat": "Chat",
+    "wallet": "Wallet",
+    "store": "Coins Store",
+    "payments": "Payments",
+    "subscription": "Subscription",
+    "profile": "Profile",
+    "admin": "Admin",
+    "download": "Get the App",
+    "developer": "Developer",
+    "referral": "Invite",
+    "creator": "Creator",
+    "creatorApply": "Become Creator"
+  },
+  "common": {
+    "loading": "Loading...",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "confirm": "Confirm",
+    "close": "Close",
+    "search": "Search",
+    "all": "All"
+  },
+  "advisor": {
+    "title": "CollexSpark Advisor",
+    "subtitle": "Smart advice for your collection",
+    "opportunities": "Opportunities",
+    "trends": "Value trends",
+    "noData": "No advice at the moment."
+  },
+  "wishlist": {
+    "title": "Wishlist",
+    "add": "Add wish",
+    "empty": "Your wishlist is empty.",
+    "opportunities": "Opportunities from your wishlist",
+    "manage": "Manage wishlist"
+  },
+  "marketplace": {
+    "title": "Market",
+    "price": "Price",
+    "buy": "Buy",
+    "makeOffer": "Make an offer",
+    "fairPrice": "Fair price",
+    "underpriced": "Underpriced"
+  },
+  "community": {
+    "title": "Community",
+    "newPost": "New post",
+    "follow": "Follow",
+    "following": "Following",
+    "recommended": "Recommended users",
+    "popular": "Popular posts",
+    "recentBlog": "Recent articles"
+  },
+  "store": {
+    "title": "CollexCoins Store",
+    "buy": "Buy",
+    "save": "You save",
+    "bestValue": "Best value",
+    "coinValue": "Official value: 1 CollexCoin = €0.05"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "empty": "No notifications.",
+    "markAllRead": "Mark all as read"
+  },
+  "auth": {
+    "login": "Sign in",
+    "register": "Sign up",
+    "email": "Email",
+    "password": "Password",
+    "username": "Username",
+    "logout": "Sign out"
+  },
+  "spark": {
+    "greeting": "Hi! I'm CollexSpark, your collector's assistant.",
+    "advisorIntro": "Here's what I found for your collection.",
+    "wishlistIntro": "I found some opportunities for your wishes!",
+    "noOpportunities": "No opportunities right now. Keep exploring!"
+  },
+  "download": {
+    "title": "Download CollexBase",
+    "subtitle": "Take your collection anywhere. Smart scanner, marketplace, auctions and advisor — in the palm of your hand.",
+    "androidTitle": "Download for Android",
+    "download": "Download APK",
+    "version": "Version",
+    "changelog": "What's new",
+    "install": "How to install on Android",
+    "step1": "Tap Download APK to get the file.",
+    "step2": "Open the downloaded file from notifications or your Downloads folder.",
+    "step3": "If prompted, allow installation from unknown sources.",
+    "step4": "Tap Install and open CollexBase.",
+    "qr": "Scan the QR to download",
+    "iosTitle": "Coming soon on iOS",
+    "iosBanner": "Coming to the App Store",
+    "iosText": "We're finishing publication on the App Store. Available soon.",
+    "features": "What you can do",
+    "f1": "Single and multi-card smart scanner",
+    "f2": "Instant AI valuations without uploading anything",
+    "f3": "Mobile marketplace, auctions and trades",
+    "f4": "Real-time push notifications"
+  }
+}
